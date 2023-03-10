@@ -81,11 +81,7 @@ class CSVHandler:
         else:
             print('Error: File Does Not Exist')
 
-    def csvdict_reader(self):
-        pass
-
-    def list_csv_writer(self):
-        pass
+  
 
 
 # emp_keys = ['id', 'name', 'emial', 'salary', 'department']
